@@ -1,9 +1,8 @@
 ### Hi there 👋
+##See my full Portfolio(http://kwa.netlify.app)
 
 <!--
 **ahmedwakil66/ahmedwakil66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-##See my full Portfolio(http://kwa.netlify.app)
 
 Here are some ideas to get you started:
 
